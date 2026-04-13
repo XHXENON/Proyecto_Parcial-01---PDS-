@@ -15,6 +15,10 @@ Para consultar una visualizacion interactiva del funcionamiento de una FFT, acce
 
 [Abrir en Google Colab](https://colab.research.google.com/drive/1bjDmzMhsQ7T4t7xymOS_km1IAtUq8_OA?usp=sharing)
 
+Para consultar una visualizacion en codigo de la fft
+
+[Abrir en Google Colab](https://colab.research.google.com/drive/1Zgv8_HI7WmEGVwlKb7fH7sqEUGDxkjU6?usp=sharing)
+
 ## Video del Proyecto
 
 Para ver la explicación y demostración del proyecto, puedes acceder al siguiente video en YouTube:
